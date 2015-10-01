@@ -4,8 +4,7 @@ Once the user has ordered their sundae, produced output similar to this:
 
 You ordered a sundae with chocolate, pineapple and peanuts
 
-Note the placement of the word AND. The word "and" is added (or removed) depending on the choices of the customer.  
-No comma is allowed just before the word "and".
+Note the placement of the word AND. The word "and" is added (or removed) depending on the choices of the customer. No comma is allowed just before the word "and".
 
 The form handles any number of toppings, including none.
 
